@@ -28,7 +28,7 @@ Every repo has a contributing doc that helps guide you to making your first comm
 Our community mainly hangs out in [Discord](https://discord.gg/tbd), in there you can join channels dedicated to their respective projects, learn, brainstorm, provide feedback, be apart of our team standups, stay up to date on all things decentralization, as well as connect with fellow community members. 
 
 
-* **Twitter**. Follow [@TBDev](https://twitter.com/TBDev) for developer content and [@TBD54566975](https://twitter.com/tbd54566975?lang=en) for TBD offfical news/updates 
+* **Twitter**. Follow [@TBDevs](https://twitter.com/TBDevs) for developer content and [@TBD54566975](https://twitter.com/tbd54566975?lang=en) for TBD offfical news/updates 
 
 * **Blog**. If you prefer to read our updates checkout our [Blog](https://developer.tbd.website/blog). You can also learn more about web5, verifiable credentials, and more.  
 
