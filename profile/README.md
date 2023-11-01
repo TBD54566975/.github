@@ -14,11 +14,10 @@ We currently have two main projects, each project has their components:
 Components: [tbDEX White paper](https://tbdex.io/whitepaper.pdf), [Decentralized Web Node](https://github.com/TBD54566975/dwn-sdk-js#readme), [Decentralized Identifiers](https://w3c.github.io/did-core/), [Self-Sovereign Identity](https://github.com/TBD54566975/ssi-service#readme), [Self-Sovereign Identity sdk](https://github.com/TBD54566975/ssi-sdk/blob/main/README.md) | Components: [Decentralized Web Node](https://github.com/TBD54566975/dwn-sdk-js#readme), [Decentralized Identifiers](https://w3c.github.io/did-core/), [Self-Sovereign Identity](https://github.com/TBD54566975/ssi-service#readme), [Self-Sovereign Identity sdk](https://github.com/TBD54566975/ssi-sdk/blob/main/README.md), [Self-Sovereign Identity console](https://github.com/TBD54566975/ssi-admin-ui/blob/main/README.md) | 
 
 We also have two incubation projects with a community member project lead:
-| [Credential Selector](https://github.com/TBD54566975/incubation-verifiable-credential-selector)  | [tbLEND](https://discord.gg/bS59ANWc) |
+| [Credential Selector](https://github.com/TBD54566975/incubation-verifiable-credential-selector)  | [tbLEND](https://github.com/TBD54566975/incubation-tblend#web5service) |
 | ------------- | ------------- |
-| Developers embed the VCS into their application to allow users to select and retrieve Verifiable Credentials (VCs) Project Lead: @jacksophtron | Connects the lender and borrower to exchange money securely. Here group of participants that are exchanging data and services are using a free and open source protocol Project Lead: @ianpatton | 
+| Developers embed the VCS into their application to allow users to select and retrieve Verifiable Credentials (VCs) Project Lead: @jacksophtron | A protocol that connects the lender and borrower to exchange money securely. To learn more about their project you can get started by watching this short [project overview](https://photos.onedrive.com/share/177DEE71378DB3AD!9886?cid=177DEE71378DB3AD&resId=177DEE71378DB3AD!9886&authkey=!APppAVFUzYZ2LIY&ithint=video&e=fddgt9). Project Lead: [@ianpatton](https://github.com/ianpatton) | 
 
-<!-- Components: [Decentralized Web Node](https://github.com/TBD54566975/dwn-sdk-js#readme), [Decentralized Identifiers](https://w3c.github.io/did-core/), [Self-Sovereign Identity](https://github.com/TBD54566975/ssi-service#readme), [Self-Sovereign Identity sdk](https://github.com/TBD54566975/ssi-sdk/blob/main/README.md)| -->
 
 ### 🤝 Contributing 🤝
 Please read through our [Code of Conduct](https://github.com/TBD54566975/tbd-project-template/blob/main/CODE_OF_CONDUCT.md). It’s so important for our community to remain healthy, respectful, and inclusive. 
