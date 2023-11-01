@@ -8,15 +8,16 @@ We invite the world to join us in building and adopting open and decentralized t
 
 We currently have two main projects, each project has their components: 
 
-| [tbDEX](https://developer.tbd.website/projects/tbdex)  | [Web5](https://developer.tbd.website/projects/web5) |
-| ------------- | ------------- |
+| [tbDEX](https://developer.tbd.website/projects/tbdex)  | [Web5](https://developer.tbd.website/projects/web5) | 
+| ------------- | ------------- | 
 | Connects the world of legacy money to the world of digital money. It opens the door to Self Sovereign Identity and access to the financial system for all. Head over to our [Getting Started](https://github.com/TBD54566975/collaboration/blob/main/projects/GETTING_STARTED_TBDEX.md) | Builds an extra decentralized web that returns control over your data and identity. Check out our [web5 docs](https://developer.tbd.website/docs/web5/) to Learn, Build, and go through our Quickstart. Also you can head over to our [Getting Started](https://github.com/TBD54566975/collaboration/blob/main/projects/GETTING_STARTED_WEB5.md) |
-Components: [tbDEX White paper](https://tbdex.io/whitepaper.pdf), [Decentralized Web Node](https://github.com/TBD54566975/dwn-sdk-js#readme), [Decentralized Identifiers](https://w3c.github.io/did-core/), [Self-Sovereign Identity](https://github.com/TBD54566975/ssi-service#readme), [Self-Sovereign Identity sdk](https://github.com/TBD54566975/ssi-sdk/blob/main/README.md) | Components: [Decentralized Web Node](https://github.com/TBD54566975/dwn-sdk-js#readme), [Decentralized Identifiers](https://w3c.github.io/did-core/), [Self-Sovereign Identity](https://github.com/TBD54566975/ssi-service#readme), [Self-Sovereign Identity sdk](https://github.com/TBD54566975/ssi-sdk/blob/main/README.md), [Self-Sovereign Identity console](https://github.com/TBD54566975/ssi-admin-ui/blob/main/README.md) |
+Components: [tbDEX White paper](https://tbdex.io/whitepaper.pdf), [Decentralized Web Node](https://github.com/TBD54566975/dwn-sdk-js#readme), [Decentralized Identifiers](https://w3c.github.io/did-core/), [Self-Sovereign Identity](https://github.com/TBD54566975/ssi-service#readme), [Self-Sovereign Identity sdk](https://github.com/TBD54566975/ssi-sdk/blob/main/README.md) | Components: [Decentralized Web Node](https://github.com/TBD54566975/dwn-sdk-js#readme), [Decentralized Identifiers](https://w3c.github.io/did-core/), [Self-Sovereign Identity](https://github.com/TBD54566975/ssi-service#readme), [Self-Sovereign Identity sdk](https://github.com/TBD54566975/ssi-sdk/blob/main/README.md), [Self-Sovereign Identity console](https://github.com/TBD54566975/ssi-admin-ui/blob/main/README.md) | 
 
-We also have one incubation project with a community member project lead:
-| [Credential Selector](https://github.com/TBD54566975/incubation-verifiable-credential-selector)  
-| ------------- |
-| Developers embed the VCS into their application to allow users to select and retrieve Verifiable Credentials (VCs) Project Lead: @jacksophtron  
+We also have two incubation projects with a community member project lead:
+| [Credential Selector](https://github.com/TBD54566975/incubation-verifiable-credential-selector)  | [tbLEND](https://github.com/TBD54566975/incubation-tblend#web5service) |
+| ------------- | ------------- |
+| Developers embed the VCS into their application to allow users to select and retrieve Verifiable Credentials (VCs) Project Lead: @jacksophtron | A protocol that connects the lender and borrower to exchange money securely. To learn more about their project you can get started by watching this short [project overview](https://photos.onedrive.com/share/177DEE71378DB3AD!9886?cid=177DEE71378DB3AD&resId=177DEE71378DB3AD!9886&authkey=!APppAVFUzYZ2LIY&ithint=video&e=fddgt9). Project Lead: [@ianpatton](https://github.com/ianpatton) | 
+
 
 ### 🤝 Contributing 🤝
 Please read through our [Code of Conduct](https://github.com/TBD54566975/tbd-project-template/blob/main/CODE_OF_CONDUCT.md). It’s so important for our community to remain healthy, respectful, and inclusive. 
