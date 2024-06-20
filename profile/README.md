@@ -16,7 +16,7 @@ Components: [tbDEX White paper](https://tbdex.io/whitepaper.pdf), [Decentralized
 We also have two incubation projects with a community member project lead:
 | [Credential Selector](https://github.com/TBD54566975/incubation-verifiable-credential-selector)  | [DCX](https://github.com/TBD54566975/incubation-dcx) |
 | ------------- | ------------- |
-| Developers embed the VCS into their application to allow users to select and retrieve Verifiable Credentials (VCs) Project Lead: @jacksophtron | A protocol that facilitates the decentralized exchange of borrower data for lender money seurely and privately; A npm package that implements the protocol as a one-click server solution. To learn more about their project you can get started by watching this short [project overview](https://photos.onedrive.com/share/177DEE71378DB3AD!9886?cid=177DEE71378DB3AD&resId=177DEE71378DB3AD!9886&authkey=!APppAVFUzYZ2LIY&ithint=video&e=fddgt9). Project Lead: [@bnonni](https://github.com/bnonni) | 
+| Developers embed the VCS into their application to allow users to select and retrieve Verifiable Credentials (VCs) Project Lead: @jacksophtron | A protocol that facilitates the decentralized exchange of borrower data for lender money seurely and privately; A npm package that implements the protocol as a one-click server solution. To learn more about their project you can get started by watching this short [project overview](https://github.com/TBD54566975/incubation-dcx?tab=readme-ov-file#decentralized-credential-exchange-dcx). Project Lead: [@bnonni](https://github.com/bnonni) | 
 
 
 ### 🤝 Contributing 🤝
